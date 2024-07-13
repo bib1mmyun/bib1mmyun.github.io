@@ -7,24 +7,24 @@
     "modelUrl": "https://teachablemachine.withgoogle.com/models/hhWyc-BQP/",
     "classDetails": [
         {
-            "name": "한국인 연예인",
+            "name": "한국인",
             "title": "한국인",
             "explain": "잘 때 선풍기를 틀지 않는다",
-            "celeb": "한국인 연예인: 아이유,윈터(에스파),박보검",
+            "celeb": "한국인: 아이유,윈터(에스파),박보검",
             "color": "rgba(27, 175, 234, 1)"
         },
         {
-            "name": "일본인 연예인",
+            "name": "일본인",
             "title": "일본인",
             "explain": "남에게 피해를 끼치는 것을 싫어한다",
-            "celeb": "일본인 연예인: 오타니,와타루,이에야스",
+            "celeb": "일본인: 오타니,와타루,이에야스",
             "color": "rgba(251, 176, 59, 1)"
         },
         {
-            "name": "중국인 연예인",
+            "name": "중국인",
             "title": "중국인",
             "explain": "자기중심적이다",
-            "celeb": "중국인 연예인: 우레이,마오쩌둥",
+            "celeb": "중국인: 우레이,마오쩌둥",
             "color": "rgba(265, 100, 50, 1)"
         }
     ]
